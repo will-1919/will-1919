@@ -20,4 +20,4 @@ Junior front-end developer powered by⚡coffee
 - 📖 I am learning:
   [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-### [Will1148683448's GitHub stats](https://github-readme-stats.vercel.app/api?username=Will1148683448&show_icons=true&theme=tokyonight)
+### <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/>
