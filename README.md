@@ -1,14 +1,20 @@
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    
 ### _Hi there 👋, I'm Will49._
 
-Junior front-end developer powered by⚡coffee
-
+Junior front-end developer powered by ⚡coffee  
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:will1148683448@gmail.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Will1148683448&show_icons=true&icon_color=2E67D3&count_private=true" />
+  </div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Will1148683448&show_icons=true&icon_color=2E67D3&count_private=true" />
+</div>
+
+---
 
 ### My skills
 
-- 🚀 I use daily:
+- 🚀 I use daily:  
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
   [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=FFD62E)](https://vite.dev/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
