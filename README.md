@@ -1,16 +1,20 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    
+<table>
+  <tr>
+    <td>
+
 ### _Hi there 👋, I'm Will49._
 
-Junior front-end developer powered by⚡coffee  
+Junior front-end developer powered by coffee⚡
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:will1148683448@gmail.com)
 
-  </div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Will1148683448&show_icons=true&icon_color=2E67D3&count_private=true" />
-</div>
-
 ---
+
+</td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Will1148683448&show_icons=true&icon_color=2E67D3&count_private=true" />
+    </td>
+  </tr>
+</table>
 
 ### My skills
 
