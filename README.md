@@ -4,9 +4,9 @@ Junior front-end developer powered by⚡coffee
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:will1148683448@gmail.com)
 
-## <img align="right" src="https://github-readme-stats.vercel.app/api?username=Will1148683448&show_icons=true&icon_color=2E67D3&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Will1148683448&show_icons=true&icon_color=2E67D3&count_private=true" />
 
----
+### My skills
 
 - 🚀 I use daily:
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
