@@ -19,5 +19,3 @@ Junior front-end developer powered by coffee⚡
   [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](https://yarnpkg.com/)
 - 📖 I am learning:
   [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-
-### <img src="https://github-readme-stats.vercel.app/api?username=will-1919&show_icons=true&icon_color=2E67D3&count_private=true" />
